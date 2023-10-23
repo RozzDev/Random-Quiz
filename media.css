@@ -1,0 +1,125 @@
+@media screen and (max-width: 1024px){
+    .begin h1 {
+        font-size: 3rem;
+        text-align: center;
+        margin-left: 0px;
+        display: flex;
+        justify-content: center;
+    }
+    .rules {
+        margin-left: 210px;
+    }
+    .bts {
+        margin-left: 720px;
+    }
+}
+@media screen and (max-width: 768px){
+    .begin h1{
+        font-size: 2.5rem;
+    }
+    .rules {
+        margin-left: 70px;
+        padding: 30px;
+    }
+    .all h1 {
+        font-size: 3rem;
+    }
+    .questions li {
+        font-size: 1.5rem;
+    }
+    .answer button {
+        width: 150px;
+        font-size: 1rem;
+    }
+    .bts {
+        width: 150px;
+        font-size: 1rem;
+        margin-left: 500px;
+        height: 40px;
+    }
+}
+@media screen and (max-width:662px){
+    .questions li {
+        font-size: 1.1rem;
+    }
+    .answer button {
+        width: 90px;
+        font-size: 0.6rem;
+        padding-bottom: 10px;
+        padding-top: 10px;
+    }
+    .bts {
+        width: 100px;
+        font-size: 0.8rem;
+        margin-left: 350px;
+        height: 40px;
+    }
+    .score .par, .score .main-score{
+        font-size: 3rem;
+    }
+}
+@media  screen and (max-width:460px){
+    .all h1 {
+        font-size: 2rem;
+    }
+    .questions li {
+        font-size: 0.9rem;
+    }
+    .answer button {
+        width: 90px;
+        font-size: 0.5rem;
+    }
+    .bts {
+        width: 100px;
+        font-size: 0.8rem;
+        margin-left: 280px;
+        height: 40px;
+    }
+}
+@media screen and (max-width:425px){
+    .begin h1 {
+        font-size: 2rem;
+    }
+    .begin h4 {
+        font-size: 1.2rem;
+    }
+    .rules {
+        font-size: 0.5rem;
+        margin-left: 50px;
+    }
+    .questions li {
+        font-size: 1.5rem;
+        margin-left: 50px;
+        margin-right: 20px;
+    }
+    .answer button {
+        width: 100px;
+        font-size: 0.6rem;
+    }
+
+}
+@media screen and (max-width:383px){
+    .bts {
+        width: 100px;
+        font-size: 0.8rem;
+        margin-left: 250px;
+        height: 40px;
+    }
+    .rules {
+        margin-left: 20px;
+    }
+}
+@media screen and (max-width: 375px){
+    .begin h1 {
+        font-size: 1.5rem;
+    }
+    .begin h4 {
+        font-size: 1rem;
+    }
+    .rules {
+        margin-left: 30px;
+    }
+    .bts {
+        margin-left: 160px;
+    }
+}
